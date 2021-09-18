@@ -38,5 +38,3 @@ class TestadorDeCep(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-    # teste = TestadorDeCep()
-    # teste.verifica_cep_correto()
